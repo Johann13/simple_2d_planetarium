@@ -3,6 +3,7 @@
 This is a very simplified Planetarium.
 It shows the motion of the 8 Planets in the Solar System relative to each other.
 Earth needs 5 seconds for one orbit.
+The Site is hosted [here](https://johann13.github.io/simple_2d_planetarium/#/).
 
 ## Getting Started
 
