@@ -1,6 +1,8 @@
 # simple_2d_planetarium
 
-A new Flutter project.
+This is a very simplified Planetarium.
+It shows the motion of the 8 Planets in the Solar System relative to each other.
+Earth needs 5 seconds for one orbit.
 
 ## Getting Started
 
