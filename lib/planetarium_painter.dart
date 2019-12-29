@@ -84,9 +84,9 @@ class _PlanetariumState extends State<Planetarium>
                   Text('Somewhat Realisic'),
                 ],
               ),
-              Text('This is a very simplefied Planetarium. '
-                  'It shows the motion of the 8 Planets in the Solar System relative to each other. '
-                  'Earth needs 5 seconed for one orbit.'),
+              Text('This is a very simplified Planetarium. '
+                'It shows the motion of the 8 Planets in the Solar System relative to each other. '
+                'Earth needs 5 seconds for one orbit.'),
               ListView.builder(
                 shrinkWrap: true,
                 physics: ClampingScrollPhysics(),
