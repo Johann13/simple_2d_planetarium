@@ -1,6 +1,5 @@
 name: simple_2d_planetarium
-description: A new Flutter project.
-
+description: This is a very simplified Planetarium. It shows the motion of the 8 Planets in the Solar System relative to each other. Earth needs 5 seconds for one orbit.
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
 # followed by an optional build number separated by a +.
